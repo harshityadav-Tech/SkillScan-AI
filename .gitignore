@@ -1,0 +1,7 @@
+venv/
+mlenv/
+__pycache__/
+*.pyc
+.env
+uploads/
+.pynb_checkpoints/
